@@ -1,0 +1,6 @@
+c:\users\dn3tguru\documents\visual studio 14\Projects\KiwiCaptchaPwd\KiwiCaptchaPwd\bin\Debug\KiwiCaptchaPwd.exe.config
+c:\users\dn3tguru\documents\visual studio 14\Projects\KiwiCaptchaPwd\KiwiCaptchaPwd\bin\Debug\KiwiCaptchaPwd.exe
+c:\users\dn3tguru\documents\visual studio 14\Projects\KiwiCaptchaPwd\KiwiCaptchaPwd\bin\Debug\KiwiCaptchaPwd.pdb
+c:\users\dn3tguru\documents\visual studio 14\Projects\KiwiCaptchaPwd\KiwiCaptchaPwd\obj\Debug\KiwiCaptchaPwd.exe
+c:\users\dn3tguru\documents\visual studio 14\Projects\KiwiCaptchaPwd\KiwiCaptchaPwd\obj\Debug\KiwiCaptchaPwd.pdb
+c:\users\dn3tguru\documents\visual studio 14\Projects\KiwiCaptchaPwd\KiwiCaptchaPwd\obj\Debug\KiwiCaptchaPwd.csprojResolveAssemblyReference.cache
